@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Full stack projects
 - 📫 How to reach me: https://www.linkedin.com/in/aneelakiran/
  
-### Connect with me:
+<!--### Connect with me:
 <div id="badges">
   <a href="https://github.com/Aneela-Kiran">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
@@ -16,7 +16,8 @@
    <a href="https://x.com/AneelaKira45">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
+</div> -->
+
 
 
 
