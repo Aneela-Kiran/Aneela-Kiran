@@ -1,4 +1,3 @@
-<h1 align="center"> Hi there👋</h1>
 
 - 🔭 I’m @Aneela-Kiran
 - 🔭 I’m currently working on ReactJS
