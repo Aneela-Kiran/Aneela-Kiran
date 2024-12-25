@@ -1,7 +1,7 @@
 
 - 🔭 I’m @Aneela-Kiran
-- ⚡ I’m currently working on ReactJS
-- 🌱 I’m currently learning NextJS 
+- ⚡ I’m  worked on  ReactJS & NextJS
+- 🌱 I’m currently learning  React native mobile application devlopment
 - 👯 I’m looking to collaborate on Full stack projects
 - 📫 How to reach me: https://www.linkedin.com/in/aneelakiran/
  
